@@ -1,0 +1,13 @@
+print("****************MI CALCULADORA////////////////")
+y = input("ingresa el primer número:")
+z = input("ingresa el otro número")
+y = int (y)
+z = int (z)
+print("la suma es:",y+z)
+print("la resta es:",y-z)
+print("la multiplicacion es :",y*z)
+print("la division es:",y/z)
+print("la potencia es:",y**z)
+print("la raiz es",y**(4 / z))
+print("****************GRACIAS POR VER////////////////")
+      
